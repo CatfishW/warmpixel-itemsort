@@ -8,6 +8,14 @@
 - 无其他模组前置
 - 语言：简体中文 / English
 
+## 截图 Screenshots
+
+![物品整理封面：一键整理背包与箱子](docs/screenshots/01_cover.png)
+
+![整理模式与可撤销](docs/screenshots/02_modes.png)
+
+![物品整理功能一览](docs/screenshots/03_features.png)
+
 ## 下载
 
 请到 [Releases](../../releases) 页面下载 jar（版本 1.0.1）。
